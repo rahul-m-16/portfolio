@@ -1,18 +1,18 @@
 export const projects = [
   {
-    id: 1,
-    title: 'E-Commerce Platform',
-    description: 'A full-featured online shopping platform with product catalog, cart management, and secure checkout.',
-    problem: 'Small businesses struggle to establish an online presence due to complex and expensive e-commerce solutions.',
-    approach: 'Built a lightweight, user-friendly platform focusing on essential features while maintaining scalability.',
-    techStack: ['React', 'Node.js', 'MongoDB', 'Express', 'Stripe API'],
-    challenges: 'Implementing secure payment processing and optimizing database queries for fast product searches.',
-    outcome: 'Successfully deployed platform serving 100+ daily users with 99.9% uptime and average page load time under 2 seconds.',
-    liveLink: 'https://example.com',
-    githubLink: 'https://github.com/yourusername/ecommerce-platform',
-    category: 'fullstack',
-    featured: true
-  },
+  id: 1,
+  title: 'TrackLyt – Personal Finance Dashboard',
+  description: 'A full-stack web application to track income, expenses, and visualize financial data through interactive dashboards.',
+  problem: 'Managing personal finances manually makes it difficult to track expenses and gain meaningful financial insights.',
+  approach: 'Developed a MERN-based application with intuitive UI and real-time data updates to simplify financial tracking and analysis.',
+  techStack: ['React', 'Node.js', 'Express', 'MongoDB'],
+  challenges: 'Handling real-time data updates and designing intuitive dashboards for clear financial visualization.',
+  outcome: 'Successfully deployed a scalable finance tracking application enabling users to monitor spending and make informed financial decisions.',
+  liveLink: 'https://tracklyt.vercel.app/',
+  githubLink: 'https://github.com/yourusername/tracklyt',
+  category: 'fullstack',
+  featured: true
+},
   {
     id: 2,
     title: 'Task Management Dashboard',
