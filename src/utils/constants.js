@@ -4,14 +4,14 @@ export const PERSONAL_INFO = {
   tagline: 'Passionate about building impactful web solutions and learning new technologies',
   email: 'rahulmadagoud@gmail.com',
   github: 'https://github.com/rahul-m-16',
-  linkedin: 'https://linkedin.com/in/',
+  linkedin: ': https://github.com/rahul-m-16/',
   resume: '/resume.pdf'
 }
 
 export const EDUCATION = {
-  degree: 'Bachelor of Technology in Computer Science',
-  institution: 'University Name',
-  year: '2022 - 2026',
+  degree: 'Bachelor of Computer Application',
+  institution: 'Rani Channamma University, Belagavi',
+  year: '2021 - 2024',
   gpa: '8.5/10',
   coursework: ['Data Structures & Algorithms', 'Web Development', 'Database Management', 'Software Engineering']
 }
